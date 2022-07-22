@@ -1,0 +1,58 @@
+D:\Документы\Shopping center\Shopping center\bin\Debug\net6.0\Shopping center.exe
+D:\Документы\Shopping center\Shopping center\bin\Debug\net6.0\Shopping center.deps.json
+D:\Документы\Shopping center\Shopping center\bin\Debug\net6.0\Shopping center.runtimeconfig.json
+D:\Документы\Shopping center\Shopping center\bin\Debug\net6.0\Shopping center.dll
+D:\Документы\Shopping center\Shopping center\bin\Debug\net6.0\Shopping center.pdb
+D:\Документы\Shopping center\Shopping center\bin\Debug\net6.0\Humanizer.dll
+D:\Документы\Shopping center\Shopping center\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Документы\Shopping center\Shopping center\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Документы\Shopping center\Shopping center\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Документы\Shopping center\Shopping center\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Документы\Shopping center\Shopping center\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Документы\Shopping center\Shopping center\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Документы\Shopping center\Shopping center\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Документы\Shopping center\Shopping center\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Документы\Shopping center\Shopping center\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Документы\Shopping center\Shopping center\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Документы\Shopping center\Shopping center\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Документы\Shopping center\Shopping center\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\Документы\Shopping center\Shopping center\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Документы\Shopping center\Shopping center\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\Документы\Shopping center\Shopping center\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\Документы\Shopping center\Shopping center\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Документы\Shopping center\Shopping center\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Документы\Shopping center\Shopping center\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Документы\Shopping center\Shopping center\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Документы\Shopping center\Shopping center\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Документы\Shopping center\Shopping center\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Документы\Shopping center\Shopping center\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Документы\Shopping center\Shopping center\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Документы\Shopping center\Shopping center\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Документы\Shopping center\Shopping center\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Документы\Shopping center\Shopping center\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Документы\Shopping center\Shopping center\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Документы\Shopping center\Shopping center\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Документы\Shopping center\Shopping center\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Документы\Shopping center\Shopping center\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Документы\Shopping center\Shopping center\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Документы\Shopping center\Shopping center\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Документы\Shopping center\Shopping center\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Документы\Shopping center\Shopping center\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Документы\Shopping center\Shopping center\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Документы\Shopping center\Shopping center\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Документы\Shopping center\Shopping center\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Документы\Shopping center\Shopping center\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Документы\Shopping center\Shopping center\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Документы\Shopping center\Shopping center\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Документы\Shopping center\Shopping center\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Документы\Shopping center\Shopping center\obj\Debug\net6.0\Shopping center.csproj.AssemblyReference.cache
+D:\Документы\Shopping center\Shopping center\obj\Debug\net6.0\Shopping center.GeneratedMSBuildEditorConfig.editorconfig
+D:\Документы\Shopping center\Shopping center\obj\Debug\net6.0\Shopping center.AssemblyInfoInputs.cache
+D:\Документы\Shopping center\Shopping center\obj\Debug\net6.0\Shopping center.AssemblyInfo.cs
+D:\Документы\Shopping center\Shopping center\obj\Debug\net6.0\Shopping center.csproj.CoreCompileInputs.cache
+D:\Документы\Shopping center\Shopping center\obj\Debug\net6.0\Shopping center.csproj.CopyComplete
+D:\Документы\Shopping center\Shopping center\obj\Debug\net6.0\Shopping center.dll
+D:\Документы\Shopping center\Shopping center\obj\Debug\net6.0\refint\Shopping center.dll
+D:\Документы\Shopping center\Shopping center\obj\Debug\net6.0\Shopping center.pdb
+D:\Документы\Shopping center\Shopping center\obj\Debug\net6.0\Shopping center.genruntimeconfig.cache
+D:\Документы\Shopping center\Shopping center\obj\Debug\net6.0\ref\Shopping center.dll
